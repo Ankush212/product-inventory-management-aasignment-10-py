@@ -1,0 +1,15 @@
+2026-11-05 15:47:18,618 - INFO - Success: Discounted amount is 20.0
+2026-11-05 15:47:18,618 - ERROR - Calculation error: Price cannot be negative
+2026-11-05 15:53:39,229 - INFO - Product check: Stock is available
+2026-11-05 15:53:39,229 - ERROR - Product check error: Stock is not available 
+2026-11-05 15:53:39,230 - INFO - Success: Total price is 200
+2026-11-05 15:53:39,230 - INFO - Success: Discounted amount is 20.0
+2026-11-05 15:53:39,230 - ERROR - Calculation error: Price cannot be negative
+2026-11-24 13:51:50,077 - INFO - Product check: Stock is available
+2026-11-24 13:51:50,079 - INFO - Success: Total price is 200
+2026-11-24 13:51:50,079 - INFO - Success: Discounted amount is 180.0
+2026-11-24 13:51:50,079 - ERROR - Calculation error: Price cannot be negative
+2026-11-24 13:56:19,076 - INFO - Product check: Stock is available
+2026-11-24 13:56:19,076 - INFO - Success: Total price is 200
+2026-11-24 13:56:19,077 - INFO - Success: Discounted amount is 180.0
+2026-11-24 13:56:19,077 - ERROR - Calculation error: Price cannot be negative
